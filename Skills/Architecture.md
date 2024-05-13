@@ -1,72 +1,72 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity +
+  - Components +
+  - Directories +
+  - GRASP *
+  - SOLID *
+  - GoF patterns *
+  - CQS "
+  - Leaking abstractions +
+  - Multiparadigm code !
+  - Contract programming !
+  - Platform-agnostic ~
+  - Transport-agnostic ~
+  - Framework-agnostic ~
+  - Code coverage !
+  - Cohesion +
+  - Coupling +
+  - Cyclomatic complexity ~
+  - Reliability ~
+  - Quality ~
+  - Availability ~
+  - Flexibility ~
+  - Law of Demeter (LoD) ~
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Isolation between layer !
+  - Domain-specific language (DSL) !
+  - System vs applied code !
+  - Multilayer approach !
+  - Hexagonal architecture !
+  - Separation of concerns (SoC) +
+  - Metaprogramming +
+  - Inversion of control (IoC) *
+  - Dependency injection (DI) !
+  - Clean architecture *
+  - Domain-driven design (DDD) !
+  - Pub/sub !
+  - Message brocker !
+  - Agent ~
+  - Service locator ~
+  - Message Queue (MQ) !
+  - CQRS ""
+  - Event sourcing ""
+  - E-R data modeling !
+  - Entity-relationship diagram !
   - IDEF1X
-  - UML
+  - UML !
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems +
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
+  - Load balancing !
+  - Gateways !
+  - On-premises !
+  - IaaS +
+  - PaaS +
+  - SaaS !
+  - FaaS clouds ~
+  - Serverless ~
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design ~
+  - Process modelling~
+  - Data modelling ~
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -78,23 +78,23 @@
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) +
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs !
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems !
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture !
+  - Microservices !
   - Process choreography
-  - Service orchestration
+  - Service orchestration !
   - Data warehouse
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance !
   - Engineering Hygiene
