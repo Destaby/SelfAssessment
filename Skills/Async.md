@@ -86,4 +86,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing constructor: 👂 heard
+  - Revealing constructor: 🖐️ used
