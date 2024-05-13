@@ -90,15 +90,14 @@ Total: you have `94` of `98` skills, `4` to be upgraded, and `89` above needed
 | Better stack traces with return await | 🎓 known | ⟶  | 🖐️ used |
 | RxJS library | 🤷 unknown | ⟶  | 👂 heard |
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
-| Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `44` of `50` skills, `6` to be upgraded, and `36` above needed
+Total: you have `45` of `50` skills, `5` to be upgraded, and `37` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Better stack traces with return await | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `36` of `37` skills, `1` to be upgraded, and `29` above needed
+Total: you have `36` of `37` skills, `1` to be upgraded, and `30` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -125,9 +124,8 @@ Total: you have `36` of `37` skills, `1` to be upgraded, and `29` above needed
 | Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
-| Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `51` of `75` skills, `24` to be upgraded, and `41` above needed
+Total: you have `52` of `75` skills, `23` to be upgraded, and `41` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
