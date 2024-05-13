@@ -1,239 +1,239 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model !
-  - Modeling !
-  - Subject domain !
-  - Algorithm !
-  - Syntax !
-  - Semantics !
-  - Abstraction !
-  - Paradigm !
-  - Programm !
-  - Programming paradigm !
-  - Programming language !
-  - Contract !
-  - Module !
-  - Library !
-  - Package !
-  - Component !
-  - Framework !
-  - Platform !
-  - Source code !
-  - Object code +
-  - Machine code !
-  - Microcode ~
-  - Software engineering !
-  - Decomposition +
-  - Control flow !
-  - Data flow !
-  - Code reuse !
-  - Defensive programming ~
-  - Don't repeat yourself (DRY) !
-  - KISS principle ~
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
+  - Subject domain: 🙋 explained
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🙋 explained
+  - Module: 🙋 explained
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
+  - Platform: 🙋 explained
+  - Source code: 🙋 explained
+  - Object code: 🎓 known
+  - Machine code: 🙋 explained
+  - Microcode: 👂 heard
+  - Software engineering: 🙋 explained
+  - Decomposition: 🎓 known
+  - Control flow: 🙋 explained
+  - Data flow: 🙋 explained
+  - Code reuse: 🙋 explained
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 🙋 explained
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value !
-  - Identifier !
-  - Variable !
-  - Constant !
-  - Scalar !
-  - Literal !
-  - Expression !
-  - Heap +
-  - Function !
-  - Procedure +
-  - Method !
-  - Class !
-  - Prototype !
-  - Event !
-  - Type !
-  - Flag !
-  - Lexical scope !
-  - Code block !
-  - Conditions !
-  - Loops !
-  - Assignment !
-  - Regular expression !
-  - Interface !
-  - Namespaces *
-  - Call stack  !
-  - Naming conventions !
-  - Coding conventions !
-  - Camel case *
-  - Snake case *
-  - Kebab case *
-  - Trailing commas !
-  - Return early !
-  - Fail-fast !
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
+  - Expression: 🙋 explained
+  - Heap: 🎓 known
+  - Function: 🙋 explained
+  - Procedure: 🎓 known
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
+  - Flag: 🙋 explained
+  - Lexical scope: 🙋 explained
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
+  - Assignment: 🙋 explained
+  - Regular expression: 🙋 explained
+  - Interface: 🙋 explained
+  - Namespaces: 🖐️ used
+  - Call stack: 🙋 explained
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🙋 explained
+  - Return early: 🙋 explained
+  - Fail-fast: 🙋 explained
 - Types
-  - Primitive types !
-  - Reference types !
-  - Type systems +
-  - Strong typing !
-  - Weak typing !
-  - Duck typing *
-  - Static typing !
-  - Dynamic typing  +
-  - Nominal typing ~
-  - Structural typing ~
-  - Explicit typing ~
-  - Type inference !
-  - Covariance ~
-  - Contravariance ~
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
+  - Type systems: 🎓 known
+  - Strong typing: 🙋 explained
+  - Weak typing: 🙋 explained
+  - Duck typing: 🖐️ used
+  - Static typing: 🙋 explained
+  - Dynamic typing: 🎓 known
+  - Nominal typing: 👂 heard
+  - Structural typing: 👂 heard
+  - Explicit typing: 👂 heard
+  - Type inference: 🙋 explained
+  - Covariance: 👂 heard
+  - Contravariance: 👂 heard
 - Functions
-  - Signature !
-  - Argument !
-  - Parameter !
-  - Pure function !
-  - Lambda expression !
-  - Side effects !
-  - Closure !
-  - Partial application ~
-  - Currying !
-  - Higher order !
-  - Recursion !
-  - Tail call optimisation ~
-  - Callback !
-  - Listener !
-  - Composition !
-  - Pipe !
-  - Memoize !
-  - Wrapper !
-  - Functor +
-  - Monad +
-  - Monoid ~
-  - Generator !
-  - Coroutine ~
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
+  - Partial application: 👂 heard
+  - Currying: 🙋 explained
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
+  - Tail call optimisation: 👂 heard
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
+  - Composition: 🙋 explained
+  - Pipe: 🙋 explained
+  - Memoize: 🙋 explained
+  - Wrapper: 🙋 explained
+  - Functor: 🎓 known
+  - Monad: 🎓 known
+  - Monoid: 👂 heard
+  - Generator: 🙋 explained
+  - Coroutine: 👂 heard
 - Data structures
-  - Array !
-  - Structure *
-  - Record !
-  - Enum !
-  - Instance !
-  - Object !
-  - Collection !
-  - Set !
-  - Hash table +
-  - Linked list +
-  - Doubly list ~
-  - Unrolled list ~
-  - Circular list +
-  - Queue !
-  - Stack !
-  - Deque !
-  - Tree !
-  - Graph +
-  - Iterator !
-  - Mutable state !
-  - Immutable state !
-  - Serialization !
-  - String parsing !
-  - JSON !
-  - JSON5 ~
-  - YAML !
+  - Array: 🙋 explained
+  - Structure: 🖐️ used
+  - Record: 🙋 explained
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
+  - Doubly list: 👂 heard
+  - Unrolled list: 👂 heard
+  - Circular list: 🎓 known
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
+  - Deque: 🙋 explained
+  - Tree: 🙋 explained
+  - Graph: 🎓 known
+  - Iterator: 🙋 explained
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
+  - Serialization: 🙋 explained
+  - String parsing: 🙋 explained
+  - JSON: 🙋 explained
+  - JSON5: 👂 heard
+  - YAML: 🙋 explained
 - Networking
-  - DNS *
-  - CDN *
-  - CORS !
-  - IPv4 *
-  - IPv6 *
-  - NAT ~
-  - URL *
+  - DNS: 🖐️ used
+  - CDN: 🖐️ used
+  - CORS: 🙋 explained
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 👂 heard
+  - URL: 🖐️ used
   - URN
-  - URI *
+  - URI: 🖐️ used
 - Process and tools
-  - Compiler !
-  - Just-in-time compilation +
-  - Ahead-of-time compilation +
-  - Transpiler !
-  - Linter !
-  - Polyfill *
-  - Interpreter !
-  - Linker !
-  - Dynamic linking *
-  - Static linking *
-  - Runtime !
-  - Virtual machine +
-  - Register-based VM ~
-  - Stack-based VM ~
-  - Containerization !
-  - Debugger !
-  - Tracing !
-  - Garbage collection !
-  - Refactoring !
-  - Code review !
-  - Exception !
-  - Unittesting !
-  - git !
-  - Github !
-  - Docker !
-  - Kubernetes +
-  - GCC ~
-  - LLVM ~
+  - Compiler: 🙋 explained
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
+  - Transpiler: 🙋 explained
+  - Linter: 🙋 explained
+  - Polyfill: 🖐️ used
+  - Interpreter: 🙋 explained
+  - Linker: 🙋 explained
+  - Dynamic linking: 🖐️ used
+  - Static linking: 🖐️ used
+  - Runtime: 🙋 explained
+  - Virtual machine: 🎓 known
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
+  - Containerization: 🙋 explained
+  - Debugger: 🙋 explained
+  - Tracing: 🙋 explained
+  - Garbage collection: 🙋 explained
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🙋 explained
+  - Unittesting: 🙋 explained
+  - git: 🙋 explained
+  - Github: 🙋 explained
+  - Docker: 🙋 explained
+  - Kubernetes: 🎓 known
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers !
-  - Hard code +
-  - Soft code +
-  - Cryptic code +
-  - Improbability factor ~
-  - Accidental complexity ~
-  - Action at a distance ~
+  - Magic numbers: 🙋 explained
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 👂 heard
+  - Accidental complexity: 👂 heard
+  - Action at a distance: 👂 heard
   - Spaghetti
   - Silver bullet
-  - Not invented here ~
-  - Dead code !
-  - Unreachable code !
-  - Duplicate code !
+  - Not invented here: 👂 heard
+  - Dead code: 🙋 explained
+  - Unreachable code: 🙋 explained
+  - Duplicate code: 🙋 explained
   - Premature optimization
-  - Micro-optimization !
-  - Nested loops !
-  - Long method/function/procedure !
-  - Long inheritance !
-  - Large class/file !
-  - Too many parameters !
-  - Pass-through parameters !
-  - Accumulate and fire ~
-  - Use switch/case !
-  - Temporary field !
-  - Handle object as instances and hashes at the same time !
-  - Use fields instead of arguments !
+  - Micro-optimization: 🙋 explained
+  - Nested loops: 🙋 explained
+  - Long method/function/procedure: 🙋 explained
+  - Long inheritance: 🙋 explained
+  - Large class/file: 🙋 explained
+  - Too many parameters: 🙋 explained
+  - Pass-through parameters: 🙋 explained
+  - Accumulate and fire: 👂 heard
+  - Use switch/case: 🙋 explained
+  - Temporary field: 🙋 explained
+  - Handle object as instances and hashes at the same time: 🙋 explained
+  - Use fields instead of arguments: 🙋 explained
   - Data clump
   - Feature envy
-  - Monkey patch ~
+  - Monkey patch: 👂 heard
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8 +
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts ~
-  - Drivers +
-  - Kernel +
+  - Interrupts: 👂 heard
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
-  - Virtual memory +
-  - File system +
-  - Linux !
-  - Unix !
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🙋 explained
+  - Unix: 🙋 explained
   - BSD
-  - MacOS !
-  - Windows !
-  - Real-time OS ~
-  - Embedded OS ~
+  - MacOS: 🙋 explained
+  - Windows: 🙋 explained
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
-  - ASCII !
-  - Escape sequence ~
-  - RFC ~
-  - IETF ~
-  - IANA !
-  - IEEE ~
-  - Base64 !
-  - ECMA *
-  - ICANN ~
-  - ISO !
-  - MIME !
-  - OWASP ~
-  - UTF-8 !
-  - W3C ~
+  - ASCII: 🙋 explained
+  - Escape sequence: 👂 heard
+  - RFC: 👂 heard
+  - IETF: 👂 heard
+  - IANA: 🙋 explained
+  - IEEE: 👂 heard
+  - Base64: 🙋 explained
+  - ECMA: 🖐️ used
+  - ICANN: 👂 heard
+  - ISO: 🙋 explained
+  - MIME: 🙋 explained
+  - OWASP: 👂 heard
+  - UTF-8: 🙋 explained
+  - W3C: 👂 heard
   - ODMG
