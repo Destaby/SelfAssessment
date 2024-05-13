@@ -114,7 +114,7 @@
   - `console`: 🙋 explained
   - Timers: 🙋 explained
 - Infrastructure
-  - V8
+  - V8 🖐️ used
   - Node.js: 🙋 explained
   - npm: 🙋 explained
   - prettier: 🙋 explained
