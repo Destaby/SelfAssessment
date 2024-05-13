@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -41,15 +41,15 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `14` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `5` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `0` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `0` | `12` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `9` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `6` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `25` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `23` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `11` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `6` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `13` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `3` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
@@ -133,29 +133,29 @@ Total: you have `52` of `75` skills, `23` to be upgraded, and `41` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `51` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `69` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `55` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `32` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `61` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `95` above needed
