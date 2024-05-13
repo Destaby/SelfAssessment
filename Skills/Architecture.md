@@ -1,72 +1,72 @@
 ## Architecture
 
 - Application structure
-  - Modularity +
-  - Components +
-  - Directories +
-  - GRASP *
-  - SOLID *
-  - GoF patterns *
-  - CQS "
-  - Leaking abstractions +
-  - Multiparadigm code !
-  - Contract programming !
-  - Platform-agnostic ~
-  - Transport-agnostic ~
-  - Framework-agnostic ~
-  - Code coverage !
-  - Cohesion +
-  - Coupling +
-  - Cyclomatic complexity ~
-  - Reliability ~
-  - Quality ~
-  - Availability ~
-  - Flexibility ~
-  - Law of Demeter (LoD) ~
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 📢 talked
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🙋 explained
+  - Contract programming: 🙋 explained
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🙋 explained
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer !
-  - Domain-specific language (DSL) !
-  - System vs applied code !
-  - Multilayer approach !
-  - Hexagonal architecture !
-  - Separation of concerns (SoC) +
-  - Metaprogramming +
-  - Inversion of control (IoC) *
-  - Dependency injection (DI) !
-  - Clean architecture *
-  - Domain-driven design (DDD) !
-  - Pub/sub !
-  - Message brocker !
-  - Agent ~
-  - Service locator ~
-  - Message Queue (MQ) !
-  - CQRS ""
-  - Event sourcing ""
-  - E-R data modeling !
-  - Entity-relationship diagram !
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🙋 explained
+  - Hexagonal architecture: 🙋 explained
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🙋 explained
+  - Pub/sub: 🙋 explained
+  - Message brocker: 🙋 explained
+  - Agent: 👂 heard
+  - Service locator: 👂 heard
+  - Message Queue (MQ): 🙋 explained
+  - CQRS ": 📢 talked
+  - Event sourcing ": 📢 talked
+  - E-R data modeling: 🙋 explained
+  - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML !
+  - UML: 🙋 explained
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems +
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing !
-  - Gateways !
-  - On-premises !
-  - IaaS +
-  - PaaS +
-  - SaaS !
-  - FaaS clouds ~
-  - Serverless ~
+  - Load balancing: 🙋 explained
+  - Gateways: 🙋 explained
+  - On-premises: 🙋 explained
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🙋 explained
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design ~
-  - Process modelling~
-  - Data modelling ~
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -78,23 +78,23 @@
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT) +
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs !
+  - Understanding business needs: 🙋 explained
   - Enterprise strategy
-  - Integration with subsystems !
+  - Integration with subsystems: 🙋 explained
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture !
-  - Microservices !
+  - Service-oriented architecture: 🙋 explained
+  - Microservices: 🙋 explained
   - Process choreography
-  - Service orchestration !
+  - Service orchestration: 🙋 explained
   - Data warehouse
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance !
+  - Quality assurance: 🙋 explained
   - Engineering Hygiene
