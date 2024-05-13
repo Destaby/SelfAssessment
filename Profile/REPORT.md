@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;505&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;505&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-355&nbsp;/&nbsp;421&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-423&nbsp;/&nbsp;505&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -51,11 +51,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `13` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `3` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
-| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `0` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `19` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `20` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `3` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `21` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `22` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `30` | `36` |
