@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-244&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/Destaby/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-245&nbsp;/&nbsp;289&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -32,7 +32,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `13` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `20` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
@@ -68,9 +68,8 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `70` of `72` skills, `2` to be upgraded, and `69` above needed
+Total: you have `71` of `72` skills, `1` to be upgraded, and `70` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -78,9 +77,8 @@ Total: you have `70` of `72` skills, `2` to be upgraded, and `69` above needed
 | Sealing properties | 👂 heard | ⟶  | 🎓 known |
 | Freezing properties | 👂 heard | ⟶  | 🎓 known |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| V8 | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `93` of `98` skills, `5` to be upgraded, and `89` above needed
+Total: you have `94` of `98` skills, `4` to be upgraded, and `89` above needed
 
 ## [Async](/Skills/Async.md)
 
